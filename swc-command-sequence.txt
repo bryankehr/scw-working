@@ -1,0 +1,317 @@
+    1  ls
+    2  cd Desktop/
+    3  ls
+    4  cd python_work/
+    5  ls
+    6  cd python_crash_course/
+    7  ls
+    8  python3 chp8_86.py 
+    9  python3 chp8_87.py
+   10  python3 chp8_87.py
+   11  python3 chp8_87.py
+   12  python3 chp8_87.py
+   13  python3 chp8_87.py
+   14  python3 chp8_87.py
+   15  python3 chp8_87.py
+   16  python3 chp8_87.py
+   17  python3 chp8_87.py
+   18  python3 chp8_87.py
+   19  python3 chp8_87.py
+   20  python3 chp8_87.py
+   21  python3 chp8_87.py
+   22  python3 chp8_87.py
+   23  python3 chp8_87.py
+   24  python3 chp8_87.py
+   25  python3 chp8_87.py
+   26  python3 chp8_87.py
+   27  python3 chp8_87.py
+   28  python3 chp8_87.py
+   29  python3 chp8_87.py
+   30  ls
+   31  cd desktop
+   32  ls
+   33  cd python_work
+   34  ls
+   35  mkdir software_carpentry
+   36  ls
+   37  cd software_carpentry/
+   38  ls
+   39  cd ./
+   40  cd ..
+   41  cd ..
+   42  cd ..
+   43  ;ls
+   44  ls
+   45  cd ..
+   46  ls
+   47  cd ..
+   48  ls
+   49  cd ..
+   50  cd Users
+   51  ls
+   52  cd bkehr
+   53  ls
+   54  cd Desktop/
+   55  ls
+   56  cd python_work/
+   57  ;s
+   58  ls
+   59  cd software_carpentry/
+   60  cd ./etc/profile
+   61  cd ../
+   62  l
+   63  ls
+   64  cd ./
+   65  cd .
+   66  cd quit
+   67  ls
+   68  cd ../../
+   69  ls
+   70  cd ..
+   71  ls
+   72  cd ..
+   73  ls
+   74  cd ~bkehr
+   75  ls
+   76  cd ..
+   77  ls
+   78  cd ..
+   79  l
+   80  ls
+   81  cd bin
+   82  ls
+   83  cd bash
+   84  ls
+   85  cd bash
+   86  ls
+   87  cd ,,
+   88  ls
+   89  cd ,,
+   90  ls
+   91  cd ~bkehr
+   92  ls
+   93  cd ..
+   94  ls
+   95  cd .,.
+   96  l
+   97  ls
+   98  cd ..
+   99  s
+  100  ls
+  101  cd Users/bkehr
+  102  ls
+  103  ls *
+  104  ls
+  105  pwd
+  106  ls
+  107  cd Documents/
+  108  ls
+  109  cd ..
+  110  cd /
+  111  ls
+  112  cd /
+  113  cd /
+  114  cd ./
+  115  ls
+  116  cd ..
+  117  ls
+  118  cd ..
+  119  ls
+  120  cd ~bkehr
+  121  pwd
+  122  cd ..
+  123  pwd
+  124  mkdir swc-test
+  125  su roor
+  126  su root
+  127  man su
+  128  ls
+  129  mkdir swc-test
+  130  su -root
+  131  su - root
+  132  pwd
+  133  cd
+  134  ls
+  135  pwd
+  136  cd Desktop/
+  137  ls
+  138  ls
+  139  pwd
+  140  ls
+  141  cd data-shell/
+  142  ls
+  143  vi notes.txt
+  144  ls
+  145  cd ..
+  146  cd data-shell/
+  147  ls
+  148  cd data/
+  149  ls
+  150  cd pdb
+  151  ls
+  152  ls -h
+  153  ls -rth
+  154  ls -rth
+  155  man ls
+  156  ls -l
+  157  chmod 777 vitamin-a.pdb 
+  158  ls -l
+  159  chmod 644 vitamin-a.pdb 
+  160  ls -l
+  161  ls -t
+  162  ls -t -l
+  163  cds ~
+  164  cd ~
+  165  pwd
+  166  cd Desktop/
+  167  cd data-shell/
+  168  ls
+  169  ls -;l
+  170  ls -l
+  171  pwd
+  172  cd .
+  173  pwd
+  174  pwd
+  175  cd data
+  176  pwd
+  177  cd
+  178  pwd
+  179  ls _F
+  180  ls -F
+  181  las
+  182  la
+  183  ls
+  184  cd Desktop/
+  185  ls
+  186  cd data-shell/
+  187  ls
+  188  ls -F
+  189  pwd
+  190  mkdir data-process
+  191  ls
+  192  ls -F
+  193  ls -f
+  194  cat .bash_profile 
+  195  ls
+  196  cd data-process/
+  197  ls
+  198  pwd
+  199  mv ../pizza.cfg .
+  200  ls
+  201  mv ../solar.pdf .
+  202  ls
+  203  cd ~
+  204  ls -f
+  205  pwd
+  206  cd ..
+  207  ls
+  208  ls -f
+  209  cd ..
+  210  ls
+  211  ls -f
+  212  cd ~/Desktop/data-shell/data
+  213  ls
+  214  pwd
+  215  cd ..
+  216  pwd
+  217  pwd
+  218  ls
+  219  cp data-process/pizza.cfg data-process/solar.pdf .
+  220  ls
+  221  cd data-process/
+  222  ls
+  223  ls
+  224  cd ..,
+  225  cd ,,
+  226  cc ..
+  227  cd ..
+  228  ls
+  229  cp notes.txt data-process/
+  230  ls data-process/
+  231  cd ~/
+  232  ls -f
+  233  ls -l
+  234  ls -l -f
+  235  touch .bash_profile
+  236  open -e .bash_profile 
+  237  ls
+  238  cd Desktop/
+  239  ls
+  240  exit
+  241  ls
+  242  cd ~
+  243  pwd
+  244  ls
+  245  ls -f
+  246  rn .bash_profile .bashrc
+  247  mv .bash_profile .bashrc
+  248  quit
+  249  exit
+  250  cd ~
+  251  ls
+  252  cd Desktop
+  253  ls
+  254  cd swqc-git
+  255  cd swc-git/
+  256  ls
+  257  git log
+  258  gitone
+  259  git checkout HEAD references.txt
+  260  git status
+  261  git commit references.txt
+  262  git add references.txt
+  263  rm ~/swc-git/index.lock
+  264  ls -l
+  265  ls -h
+  266  cd .git
+  267  rm index.lock
+  268  ls -l
+  269  cd ..
+  270  cd..
+  271  cd ..
+  272  cd swc-git/
+  273  gitone
+  274  git status
+  275  git remove reference.txt
+  276  git log --graph
+  277  git status
+  278  git rm reference,txt
+  279  git status
+  280  git rm reference.txt
+  281  git rm references.txt
+  282  git status
+  283  git checkout HEAD references.txt
+  284  git status
+  285  git master
+  286  git status
+  287  git status
+  288  cat references.txt 
+  289  git status
+  290  ls 
+  291  nano references.txt 
+  292  gitone
+  293  nana ~/.bashrc
+  294  nano ~/.bashrc
+  295  . ~/.bashrc
+  296  la
+  297  ls
+  298  gitone
+  299  ls
+  300  git remote -v
+  301  git remote 
+  302  cd Desktop/
+  303  cd swc-git/
+  304  git remote add origin https://github.com/bryankehr/scw-working.git
+  305  git remote -v
+  306  git push origin master
+  307  git pull origin master
+  308  git status
+  309  git commit -m "Pre github commit"
+  310  git status
+  311  git add commit -m "Pre hub changes"
+  312  git commit references.txt 
+  313  git commit -m "Pre github commit." references.txt 
+  314  git status
+  315  git pull origin master
+  316  cat references.txt 
+  317  history > swc-command-sequence.txt
